@@ -1,0 +1,3 @@
+1-> pip install protobuf==3.6.0
+2-> tf.ConfigProto()=> tf.compat.v1.ConfigProto()
+3-> tf.Session(config=config) =>tf.compat.v1.Session(config=config)
